@@ -43,3 +43,45 @@ DEBUG - 2017-04-03 07:05:36 --> File loaded: application/modules/home/views/home
 DEBUG - 2017-04-03 07:05:36 --> File loaded: application/modules/home/views/footer.php
 DEBUG - 2017-04-03 07:05:36 --> Final output sent to browser
 DEBUG - 2017-04-03 07:05:36 --> Total execution time: 0.0709
+DEBUG - 2017-04-03 07:16:06 --> Config Class Initialized
+DEBUG - 2017-04-03 07:16:06 --> Hooks Class Initialized
+DEBUG - 2017-04-03 07:16:06 --> Utf8 Class Initialized
+DEBUG - 2017-04-03 07:16:06 --> UTF-8 Support Enabled
+DEBUG - 2017-04-03 07:16:06 --> URI Class Initialized
+DEBUG - 2017-04-03 07:16:06 --> Router Class Initialized
+DEBUG - 2017-04-03 07:16:06 --> No URI present. Default controller set.
+DEBUG - 2017-04-03 07:16:06 --> Output Class Initialized
+DEBUG - 2017-04-03 07:16:06 --> Security Class Initialized
+DEBUG - 2017-04-03 07:16:06 --> Input Class Initialized
+DEBUG - 2017-04-03 07:16:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-04-03 07:16:06 --> Language Class Initialized
+DEBUG - 2017-04-03 07:16:06 --> Language Class Initialized
+DEBUG - 2017-04-03 07:16:06 --> Config Class Initialized
+DEBUG - 2017-04-03 07:16:06 --> Loader Class Initialized
+DEBUG - 2017-04-03 07:16:06 --> Helper loaded: url_helper
+DEBUG - 2017-04-03 07:16:06 --> Database Driver Class Initialized
+DEBUG - 2017-04-03 07:16:06 --> Session Class Initialized
+DEBUG - 2017-04-03 07:16:06 --> Helper loaded: string_helper
+DEBUG - 2017-04-03 07:16:06 --> Session routines successfully run
+DEBUG - 2017-04-03 07:16:06 --> Controller Class Initialized
+DEBUG - 2017-04-03 07:16:06 --> Home MX_Controller Initialized
+DEBUG - 2017-04-03 07:16:06 --> File loaded: application/controllers/../modules/item/controllers/item.php
+DEBUG - 2017-04-03 07:16:06 --> Item MX_Controller Initialized
+DEBUG - 2017-04-03 07:16:06 --> Model Class Initialized
+DEBUG - 2017-04-03 07:16:06 --> File loaded: application/modules/item/models/mdl_item.php
+DEBUG - 2017-04-03 07:16:06 --> Model Class Initialized
+DEBUG - 2017-04-03 07:16:06 --> File loaded: application/controllers/../modules/tracking/controllers/tracking.php
+DEBUG - 2017-04-03 07:16:06 --> Tracking MX_Controller Initialized
+DEBUG - 2017-04-03 07:16:06 --> File loaded: application/modules/tracking/models/mdl_tracking.php
+DEBUG - 2017-04-03 07:16:06 --> Model Class Initialized
+DEBUG - 2017-04-03 07:16:06 --> File loaded: application/modules/home/views/metaHeader.php
+DEBUG - 2017-04-03 07:16:06 --> File loaded: application/modules/home/views/header.php
+DEBUG - 2017-04-03 07:16:06 --> File loaded: application/modules/home/views/cdTopLinkBar.php
+DEBUG - 2017-04-03 07:16:06 --> File loaded: application/controllers/../modules/category/controllers/category.php
+DEBUG - 2017-04-03 07:16:06 --> Category MX_Controller Initialized
+DEBUG - 2017-04-03 07:16:06 --> File loaded: application/modules/category/models/mdl_category.php
+DEBUG - 2017-04-03 07:16:06 --> Model Class Initialized
+DEBUG - 2017-04-03 07:16:06 --> File loaded: application/modules/home/views/home.php
+DEBUG - 2017-04-03 07:16:06 --> File loaded: application/modules/home/views/footer.php
+DEBUG - 2017-04-03 07:16:06 --> Final output sent to browser
+DEBUG - 2017-04-03 07:16:06 --> Total execution time: 0.0614
