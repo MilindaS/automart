@@ -169,3 +169,87 @@ DEBUG - 2017-04-03 07:22:31 --> File loaded: application/modules/home/views/home
 DEBUG - 2017-04-03 07:22:31 --> File loaded: application/modules/home/views/footer.php
 DEBUG - 2017-04-03 07:22:31 --> Final output sent to browser
 DEBUG - 2017-04-03 07:22:31 --> Total execution time: 0.0848
+DEBUG - 2017-04-03 07:23:29 --> Config Class Initialized
+DEBUG - 2017-04-03 07:23:29 --> Hooks Class Initialized
+DEBUG - 2017-04-03 07:23:29 --> Utf8 Class Initialized
+DEBUG - 2017-04-03 07:23:29 --> UTF-8 Support Enabled
+DEBUG - 2017-04-03 07:23:29 --> URI Class Initialized
+DEBUG - 2017-04-03 07:23:29 --> Router Class Initialized
+DEBUG - 2017-04-03 07:23:29 --> No URI present. Default controller set.
+DEBUG - 2017-04-03 07:23:29 --> Output Class Initialized
+DEBUG - 2017-04-03 07:23:29 --> Security Class Initialized
+DEBUG - 2017-04-03 07:23:29 --> Input Class Initialized
+DEBUG - 2017-04-03 07:23:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-04-03 07:23:29 --> Language Class Initialized
+DEBUG - 2017-04-03 07:23:29 --> Language Class Initialized
+DEBUG - 2017-04-03 07:23:29 --> Config Class Initialized
+DEBUG - 2017-04-03 07:23:29 --> Loader Class Initialized
+DEBUG - 2017-04-03 07:23:29 --> Helper loaded: url_helper
+DEBUG - 2017-04-03 07:23:29 --> Database Driver Class Initialized
+DEBUG - 2017-04-03 07:23:29 --> Session Class Initialized
+DEBUG - 2017-04-03 07:23:29 --> Helper loaded: string_helper
+DEBUG - 2017-04-03 07:23:29 --> Session routines successfully run
+DEBUG - 2017-04-03 07:23:29 --> Controller Class Initialized
+DEBUG - 2017-04-03 07:23:29 --> Home MX_Controller Initialized
+DEBUG - 2017-04-03 07:23:29 --> File loaded: application/controllers/../modules/item/controllers/item.php
+DEBUG - 2017-04-03 07:23:29 --> Item MX_Controller Initialized
+DEBUG - 2017-04-03 07:23:29 --> Model Class Initialized
+DEBUG - 2017-04-03 07:23:29 --> File loaded: application/modules/item/models/mdl_item.php
+DEBUG - 2017-04-03 07:23:29 --> Model Class Initialized
+DEBUG - 2017-04-03 07:23:29 --> File loaded: application/controllers/../modules/tracking/controllers/tracking.php
+DEBUG - 2017-04-03 07:23:29 --> Tracking MX_Controller Initialized
+DEBUG - 2017-04-03 07:23:29 --> File loaded: application/modules/tracking/models/mdl_tracking.php
+DEBUG - 2017-04-03 07:23:29 --> Model Class Initialized
+DEBUG - 2017-04-03 07:23:29 --> File loaded: application/modules/home/views/metaHeader.php
+DEBUG - 2017-04-03 07:23:29 --> File loaded: application/modules/home/views/header.php
+DEBUG - 2017-04-03 07:23:29 --> File loaded: application/modules/home/views/cdTopLinkBar.php
+DEBUG - 2017-04-03 07:23:29 --> File loaded: application/controllers/../modules/category/controllers/category.php
+DEBUG - 2017-04-03 07:23:29 --> Category MX_Controller Initialized
+DEBUG - 2017-04-03 07:23:29 --> File loaded: application/modules/category/models/mdl_category.php
+DEBUG - 2017-04-03 07:23:29 --> Model Class Initialized
+DEBUG - 2017-04-03 07:23:29 --> File loaded: application/modules/home/views/home.php
+DEBUG - 2017-04-03 07:23:29 --> File loaded: application/modules/home/views/footer.php
+DEBUG - 2017-04-03 07:23:29 --> Final output sent to browser
+DEBUG - 2017-04-03 07:23:29 --> Total execution time: 0.0555
+DEBUG - 2017-04-03 07:23:30 --> Config Class Initialized
+DEBUG - 2017-04-03 07:23:30 --> Hooks Class Initialized
+DEBUG - 2017-04-03 07:23:30 --> Utf8 Class Initialized
+DEBUG - 2017-04-03 07:23:30 --> UTF-8 Support Enabled
+DEBUG - 2017-04-03 07:23:30 --> URI Class Initialized
+DEBUG - 2017-04-03 07:23:30 --> Router Class Initialized
+DEBUG - 2017-04-03 07:23:30 --> No URI present. Default controller set.
+DEBUG - 2017-04-03 07:23:30 --> Output Class Initialized
+DEBUG - 2017-04-03 07:23:30 --> Security Class Initialized
+DEBUG - 2017-04-03 07:23:30 --> Input Class Initialized
+DEBUG - 2017-04-03 07:23:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-04-03 07:23:30 --> Language Class Initialized
+DEBUG - 2017-04-03 07:23:30 --> Language Class Initialized
+DEBUG - 2017-04-03 07:23:30 --> Config Class Initialized
+DEBUG - 2017-04-03 07:23:30 --> Loader Class Initialized
+DEBUG - 2017-04-03 07:23:30 --> Helper loaded: url_helper
+DEBUG - 2017-04-03 07:23:30 --> Database Driver Class Initialized
+DEBUG - 2017-04-03 07:23:30 --> Session Class Initialized
+DEBUG - 2017-04-03 07:23:30 --> Helper loaded: string_helper
+DEBUG - 2017-04-03 07:23:30 --> Session routines successfully run
+DEBUG - 2017-04-03 07:23:30 --> Controller Class Initialized
+DEBUG - 2017-04-03 07:23:30 --> Home MX_Controller Initialized
+DEBUG - 2017-04-03 07:23:30 --> File loaded: application/controllers/../modules/item/controllers/item.php
+DEBUG - 2017-04-03 07:23:30 --> Item MX_Controller Initialized
+DEBUG - 2017-04-03 07:23:30 --> Model Class Initialized
+DEBUG - 2017-04-03 07:23:30 --> File loaded: application/modules/item/models/mdl_item.php
+DEBUG - 2017-04-03 07:23:30 --> Model Class Initialized
+DEBUG - 2017-04-03 07:23:30 --> File loaded: application/controllers/../modules/tracking/controllers/tracking.php
+DEBUG - 2017-04-03 07:23:30 --> Tracking MX_Controller Initialized
+DEBUG - 2017-04-03 07:23:30 --> File loaded: application/modules/tracking/models/mdl_tracking.php
+DEBUG - 2017-04-03 07:23:30 --> Model Class Initialized
+DEBUG - 2017-04-03 07:23:30 --> File loaded: application/modules/home/views/metaHeader.php
+DEBUG - 2017-04-03 07:23:30 --> File loaded: application/modules/home/views/header.php
+DEBUG - 2017-04-03 07:23:30 --> File loaded: application/modules/home/views/cdTopLinkBar.php
+DEBUG - 2017-04-03 07:23:30 --> File loaded: application/controllers/../modules/category/controllers/category.php
+DEBUG - 2017-04-03 07:23:30 --> Category MX_Controller Initialized
+DEBUG - 2017-04-03 07:23:30 --> File loaded: application/modules/category/models/mdl_category.php
+DEBUG - 2017-04-03 07:23:30 --> Model Class Initialized
+DEBUG - 2017-04-03 07:23:30 --> File loaded: application/modules/home/views/home.php
+DEBUG - 2017-04-03 07:23:30 --> File loaded: application/modules/home/views/footer.php
+DEBUG - 2017-04-03 07:23:30 --> Final output sent to browser
+DEBUG - 2017-04-03 07:23:30 --> Total execution time: 0.0425
