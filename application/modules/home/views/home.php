@@ -6,7 +6,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-3">
-				<img src="<?php BASEURL;?>public/images/logo.png" style="width:100%;max-width:200px;padding-top:50px;" alt="" />
+				<h2>AutoMartLK</h2>
 			</div>
 			<div class="col-md-9"></div>
 		</div>
